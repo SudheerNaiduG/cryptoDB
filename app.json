@@ -1,0 +1,10 @@
+{
+  "name": "Crypto currency prices database from wazirx.com",
+  "description": "A program which scrapes all the crypto currency prices from wazirx.com using selenium and webdriver , and constantly updates in into a database",
+  "keywords": [
+    "mongoDB"
+  ],
+  "repository": "https://github.com/th0m45s5helby/mongodb",
+  "success_url": "https://t.me/torrentleechgdrivesupport",
+  "website": "https://github.com/th0m45s5helby/mongodb"
+}
